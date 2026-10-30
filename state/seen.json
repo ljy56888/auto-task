@@ -1,5 +1,9 @@
 {
  "seen": {
+  "Agenta-AI/agenta#7914": {
+   "amount": 100.0,
+   "at": "2026-10-30T06:42:44.041181+00:00"
+  },
   "BasedHardware/omi#23720": {
    "amount": 50.0,
    "at": "2026-10-26T13:50:29.983819+00:00"
@@ -7,6 +11,18 @@
   "Earnly-Build/earnly#79": {
    "amount": 170.0,
    "at": "2026-10-29T06:41:31.493624+00:00"
+  },
+  "Sidiora-Labs/paxeer-monorepo#1232": {
+   "amount": 10000.0,
+   "at": "2026-10-30T06:42:44.041181+00:00"
+  },
+  "Uniswap/v4-periphery#623": {
+   "amount": 15000.0,
+   "at": "2026-10-30T06:42:44.041181+00:00"
+  },
+  "Uniswap/v4-periphery#624": {
+   "amount": 15000.0,
+   "at": "2026-10-30T06:42:44.041181+00:00"
   },
   "airdropia/earn-ops#19": {
    "amount": 500.0,
@@ -19,6 +35,18 @@
   "airdropia/earn-ops#23": {
    "amount": 500.0,
    "at": "2026-10-29T06:41:31.493624+00:00"
+  },
+  "airdropia/earn-ops#26": {
+   "amount": 500.0,
+   "at": "2026-10-30T06:42:44.041181+00:00"
+  },
+  "isearchxsolve/bounty-proof#1": {
+   "amount": 150.0,
+   "at": "2026-10-30T06:42:44.041181+00:00"
+  },
+  "isearchxsolve/bounty-proof#8": {
+   "amount": 150.0,
+   "at": "2026-10-30T06:42:44.041181+00:00"
   },
   "jdhart81/viridis-canon#152": {
    "amount": 50.0,
