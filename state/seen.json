@@ -40,6 +40,18 @@
    "amount": 500.0,
    "at": "2026-10-30T06:42:44.041181+00:00"
   },
+  "airdropia/earn-ops#28": {
+   "amount": 500.0,
+   "at": "2026-10-31T06:32:59.466684+00:00"
+  },
+  "alfrexo95/bounty-bot#68": {
+   "amount": 750.0,
+   "at": "2026-10-31T06:32:59.466684+00:00"
+  },
+  "alfrexo95/bounty-bot#69": {
+   "amount": 750.0,
+   "at": "2026-10-31T06:32:59.466684+00:00"
+  },
   "isearchxsolve/bounty-proof#1": {
    "amount": 150.0,
    "at": "2026-10-30T06:42:44.041181+00:00"
@@ -83,6 +95,14 @@
   "paraloom-labs/paraloom-wallet#133": {
    "amount": 150.0,
    "at": "2026-10-28T06:32:02.840248+00:00"
+  },
+  "relayhop/ClaudeEarnSelf-runtime#1175": {
+   "amount": 750.0,
+   "at": "2026-10-31T06:32:59.466684+00:00"
+  },
+  "relayhop/ClaudeEarnSelf-runtime#1176": {
+   "amount": 750.0,
+   "at": "2026-10-31T06:32:59.466684+00:00"
   }
  }
 }
