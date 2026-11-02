@@ -20,6 +20,10 @@
    "amount": 10000.0,
    "at": "2026-10-30T06:42:44.041181+00:00"
   },
+  "Trauma-Station/Trauma-Station#5225": {
+   "amount": 10000.0,
+   "at": "2026-11-02T07:04:35.303880+00:00"
+  },
   "Uniswap/v4-periphery#623": {
    "amount": 15000.0,
    "at": "2026-10-30T06:42:44.041181+00:00"
@@ -52,6 +56,10 @@
    "amount": 500.0,
    "at": "2026-11-01T07:04:00.520877+00:00"
   },
+  "airdropia/earn-ops#32": {
+   "amount": 500.0,
+   "at": "2026-11-02T07:04:35.303880+00:00"
+  },
   "alfrexo95/bounty-bot#68": {
    "amount": 750.0,
    "at": "2026-10-31T06:32:59.466684+00:00"
@@ -59,6 +67,10 @@
   "alfrexo95/bounty-bot#69": {
    "amount": 750.0,
    "at": "2026-10-31T06:32:59.466684+00:00"
+  },
+  "aromaticthrif/aegis-yield-vault#1": {
+   "amount": 5000.0,
+   "at": "2026-11-02T07:04:35.303880+00:00"
   },
   "bianzhilong2-ctrl/agents-radar#1616": {
    "amount": 5000.0,
@@ -100,6 +112,18 @@
    "amount": 250.0,
    "at": "2026-11-01T07:04:00.520877+00:00"
   },
+  "limitlessprojects/Go-Hybrid#3125": {
+   "amount": 75.0,
+   "at": "2026-11-02T07:04:35.303880+00:00"
+  },
+  "limitlessprojects/Go-Hybrid#3131": {
+   "amount": 75.0,
+   "at": "2026-11-02T07:04:35.303880+00:00"
+  },
+  "limitlessprojects/Go-Hybrid#3136": {
+   "amount": 75.0,
+   "at": "2026-11-02T07:04:35.303880+00:00"
+  },
   "paraloom-labs/paraloom-core#1242": {
    "amount": 150.0,
    "at": "2026-10-28T06:32:02.840248+00:00"
@@ -115,6 +139,10 @@
   "paraloom-labs/paraloom-wallet#133": {
    "amount": 150.0,
    "at": "2026-10-28T06:32:02.840248+00:00"
+  },
+  "probableacade/chronos-time-vault#1": {
+   "amount": 5000.0,
+   "at": "2026-11-02T07:04:35.303880+00:00"
   },
   "relayhop/ClaudeEarnSelf-runtime#1175": {
    "amount": 750.0,
