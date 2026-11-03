@@ -60,6 +60,10 @@
    "amount": 500.0,
    "at": "2026-11-02T07:04:35.303880+00:00"
   },
+  "airdropia/earn-ops#34": {
+   "amount": 500.0,
+   "at": "2026-11-03T07:28:21.503066+00:00"
+  },
   "alfrexo95/bounty-bot#68": {
    "amount": 750.0,
    "at": "2026-10-31T06:32:59.466684+00:00"
@@ -75,6 +79,14 @@
   "bianzhilong2-ctrl/agents-radar#1616": {
    "amount": 5000.0,
    "at": "2026-11-01T07:04:00.520877+00:00"
+  },
+  "chusmias258-dev/solana-validator-tx-ordering#1": {
+   "amount": 75.0,
+   "at": "2026-11-03T07:28:21.503066+00:00"
+  },
+  "hoozh/mesa-caliente#17": {
+   "amount": 157.649,
+   "at": "2026-11-03T07:28:21.503066+00:00"
   },
   "isearchxsolve/bounty-proof#1": {
    "amount": 150.0,
