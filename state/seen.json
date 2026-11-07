@@ -24,6 +24,14 @@
    "amount": 600.0,
    "at": "2026-11-06T07:33:45.848631+00:00"
   },
+  "IES-BoilerRoom/asyncpg-savepoint-harness#1": {
+   "amount": 450.0,
+   "at": "2026-11-07T06:46:49.360165+00:00"
+  },
+  "IES-BoilerRoom/asyncpg-savepoint-harness#2": {
+   "amount": 600.0,
+   "at": "2026-11-07T06:46:49.360165+00:00"
+  },
   "IES-BoilerRoom/mcp-sse-frame-conformance#1": {
    "amount": 450.0,
    "at": "2026-11-06T07:33:45.848631+00:00"
@@ -56,9 +64,17 @@
    "amount": 600.0,
    "at": "2026-11-06T07:33:45.848631+00:00"
   },
+  "PhanKhoa95/oss-bot-trap-benchmark#6": {
+   "amount": 500.0,
+   "at": "2026-11-07T06:46:49.360165+00:00"
+  },
   "Sidiora-Labs/paxeer-monorepo#1232": {
    "amount": 10000.0,
    "at": "2026-10-30T06:42:44.041181+00:00"
+  },
+  "Soroban-escrow/escrow-backend#14": {
+   "amount": 50.0,
+   "at": "2026-11-07T06:46:49.360165+00:00"
   },
   "Trauma-Station/Trauma-Station#5225": {
    "amount": 10000.0,
