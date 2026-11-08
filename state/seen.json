@@ -64,9 +64,61 @@
    "amount": 600.0,
    "at": "2026-11-06T07:33:45.848631+00:00"
   },
+  "PhanKhoa95/oss-bot-trap-benchmark#16": {
+   "amount": 350.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "PhanKhoa95/oss-bot-trap-benchmark#17": {
+   "amount": 650.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "PhanKhoa95/oss-bot-trap-benchmark#20": {
+   "amount": 750.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "PhanKhoa95/oss-bot-trap-benchmark#21": {
+   "amount": 850.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "PhanKhoa95/oss-bot-trap-benchmark#44": {
+   "amount": 900.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "PhanKhoa95/oss-bot-trap-benchmark#45": {
+   "amount": 950.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "PhanKhoa95/oss-bot-trap-benchmark#46": {
+   "amount": 1000.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "PhanKhoa95/oss-bot-trap-benchmark#47": {
+   "amount": 800.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "PhanKhoa95/oss-bot-trap-benchmark#48": {
+   "amount": 1200.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "PhanKhoa95/oss-bot-trap-benchmark#49": {
+   "amount": 1100.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
   "PhanKhoa95/oss-bot-trap-benchmark#6": {
    "amount": 500.0,
    "at": "2026-11-07T06:46:49.360165+00:00"
+  },
+  "PhanKhoa95/oss-bot-trap-benchmark#7": {
+   "amount": 400.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "PhanKhoa95/oss-bot-trap-benchmark#8": {
+   "amount": 550.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "PhanKhoa95/oss-bot-trap-benchmark#9": {
+   "amount": 500.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
   },
   "Sidiora-Labs/paxeer-monorepo#1232": {
    "amount": 10000.0,
@@ -220,6 +272,46 @@
    "amount": 150.0,
    "at": "2026-10-28T06:32:02.840248+00:00"
   },
+  "paraloom-labs/paraloom-core#1502": {
+   "amount": 3000.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "paraloom-labs/paraloom-core#1503": {
+   "amount": 3000.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "paraloom-labs/paraloom-core#1504": {
+   "amount": 3000.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "paraloom-labs/paraloom-core#1505": {
+   "amount": 3000.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "paraloom-labs/paraloom-core#1506": {
+   "amount": 3000.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "paraloom-labs/paraloom-core#1507": {
+   "amount": 3000.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "paraloom-labs/paraloom-core#1508": {
+   "amount": 3000.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "paraloom-labs/paraloom-core#1509": {
+   "amount": 3000.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "paraloom-labs/paraloom-core#1510": {
+   "amount": 3000.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
+  "paraloom-labs/paraloom-core#1511": {
+   "amount": 3000.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
+  },
   "paraloom-labs/paraloom-wallet#127": {
    "amount": 150.0,
    "at": "2026-10-28T06:32:02.840248+00:00"
@@ -243,6 +335,10 @@
   "relayhop/ClaudeEarnSelf-runtime#1176": {
    "amount": 750.0,
    "at": "2026-10-31T06:32:59.466684+00:00"
+  },
+  "relayhop/ClaudeEarnSelf-runtime#1206": {
+   "amount": 350.0,
+   "at": "2026-11-08T06:52:45.425026+00:00"
   },
   "tenstorrent/tt-metal#64575": {
    "amount": 750.0,
