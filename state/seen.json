@@ -36,6 +36,14 @@
    "amount": 600.0,
    "at": "2026-11-07T06:46:49.360165+00:00"
   },
+  "IES-BoilerRoom/cuda-warp-allreduce-verifier#1": {
+   "amount": 450.0,
+   "at": "2026-11-10T07:57:24.251191+00:00"
+  },
+  "IES-BoilerRoom/cuda-warp-allreduce-verifier#2": {
+   "amount": 600.0,
+   "at": "2026-11-10T07:57:24.251191+00:00"
+  },
   "IES-BoilerRoom/ebpf-verifier-reg-bounds#1": {
    "amount": 450.0,
    "at": "2026-11-09T07:32:24.462574+00:00"
@@ -268,6 +276,10 @@
    "amount": 157.649,
    "at": "2026-11-03T07:28:21.503066+00:00"
   },
+  "ilhamraduanbis-source/toyol-digital#5": {
+   "amount": 50.0,
+   "at": "2026-11-10T07:57:24.251191+00:00"
+  },
   "isearchxsolve/bounty-proof#1": {
    "amount": 150.0,
    "at": "2026-10-30T06:42:44.041181+00:00"
@@ -391,6 +403,10 @@
   "relayhop/ClaudeEarnSelf-runtime#1210": {
    "amount": 450.0,
    "at": "2026-11-09T07:32:24.462574+00:00"
+  },
+  "relayhop/ClaudeEarnSelf-runtime#1215": {
+   "amount": 450.0,
+   "at": "2026-11-10T07:57:24.251191+00:00"
   },
   "tenstorrent/tt-metal#64575": {
    "amount": 750.0,
