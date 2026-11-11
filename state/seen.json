@@ -52,6 +52,14 @@
    "amount": 600.0,
    "at": "2026-11-09T07:32:24.462574+00:00"
   },
+  "IES-BoilerRoom/ed25519-ct-limb-verifier#1": {
+   "amount": 450.0,
+   "at": "2026-11-11T07:27:23.320322+00:00"
+  },
+  "IES-BoilerRoom/ed25519-ct-limb-verifier#2": {
+   "amount": 600.0,
+   "at": "2026-11-11T07:27:23.320322+00:00"
+  },
   "IES-BoilerRoom/mcp-sse-frame-conformance#1": {
    "amount": 450.0,
    "at": "2026-11-06T07:33:45.848631+00:00"
@@ -91,6 +99,14 @@
   "IES-BoilerRoom/vllm-paged-kv-verifier#2": {
    "amount": 600.0,
    "at": "2026-11-06T07:33:45.848631+00:00"
+  },
+  "IES-BoilerRoom/wasm-component-canonical-abi#1": {
+   "amount": 450.0,
+   "at": "2026-11-11T07:27:23.320322+00:00"
+  },
+  "IES-BoilerRoom/wasm-component-canonical-abi#2": {
+   "amount": 600.0,
+   "at": "2026-11-11T07:27:23.320322+00:00"
   },
   "PhanKhoa95/oss-bot-trap-benchmark#16": {
    "amount": 350.0,
@@ -168,6 +184,22 @@
    "amount": 550.0,
    "at": "2026-11-08T06:52:45.425026+00:00"
   },
+  "PhanKhoa95/oss-bot-trap-benchmark#85": {
+   "amount": 1500.0,
+   "at": "2026-11-11T07:27:23.320322+00:00"
+  },
+  "PhanKhoa95/oss-bot-trap-benchmark#86": {
+   "amount": 1450.0,
+   "at": "2026-11-11T07:27:23.320322+00:00"
+  },
+  "PhanKhoa95/oss-bot-trap-benchmark#87": {
+   "amount": 1300.0,
+   "at": "2026-11-11T07:27:23.320322+00:00"
+  },
+  "PhanKhoa95/oss-bot-trap-benchmark#88": {
+   "amount": 1600.0,
+   "at": "2026-11-11T07:27:23.320322+00:00"
+  },
   "PhanKhoa95/oss-bot-trap-benchmark#9": {
    "amount": 500.0,
    "at": "2026-11-08T06:52:45.425026+00:00"
@@ -179,6 +211,22 @@
   "Soroban-escrow/escrow-backend#14": {
    "amount": 50.0,
    "at": "2026-11-07T06:46:49.360165+00:00"
+  },
+  "Subham12556/pr-bountypay-demo#11": {
+   "amount": 90.0,
+   "at": "2026-11-11T07:27:23.320322+00:00"
+  },
+  "Subham12556/pr-bountypay-demo#13": {
+   "amount": 50.0,
+   "at": "2026-11-11T07:27:23.320322+00:00"
+  },
+  "Subham12556/pr-bountypay-demo#15": {
+   "amount": 50.0,
+   "at": "2026-11-11T07:27:23.320322+00:00"
+  },
+  "Subham12556/pr-bountypay-demo#9": {
+   "amount": 50.0,
+   "at": "2026-11-11T07:27:23.320322+00:00"
   },
   "Trauma-Station/Trauma-Station#5225": {
    "amount": 10000.0,
@@ -275,6 +323,10 @@
   "hoozh/mesa-caliente#17": {
    "amount": 157.649,
    "at": "2026-11-03T07:28:21.503066+00:00"
+  },
+  "htochko/30-day-map-challenge#1": {
+   "amount": 500.0,
+   "at": "2026-11-11T07:27:23.320322+00:00"
   },
   "ilhamraduanbis-source/toyol-digital#5": {
    "amount": 50.0,
@@ -415,6 +467,14 @@
   "tenstorrent/tt-metal#64933": {
    "amount": 750.0,
    "at": "2026-11-09T07:32:24.462574+00:00"
+  },
+  "theselfish/SlopStation13#40": {
+   "amount": 420.0,
+   "at": "2026-11-11T07:27:23.320322+00:00"
+  },
+  "trade-marketplace/main#534": {
+   "amount": 30.0,
+   "at": "2026-11-11T07:27:23.320322+00:00"
   }
  }
 }
