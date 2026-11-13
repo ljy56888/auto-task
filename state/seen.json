@@ -36,6 +36,14 @@
    "amount": 600.0,
    "at": "2026-11-07T06:46:49.360165+00:00"
   },
+  "IES-BoilerRoom/bgp-med-oscillation-verifier#1": {
+   "amount": 450.0,
+   "at": "2026-11-13T07:32:19.670983+00:00"
+  },
+  "IES-BoilerRoom/bgp-med-oscillation-verifier#2": {
+   "amount": 600.0,
+   "at": "2026-11-13T07:32:19.670983+00:00"
+  },
   "IES-BoilerRoom/cuda-warp-allreduce-verifier#1": {
    "amount": 450.0,
    "at": "2026-11-10T07:57:24.251191+00:00"
@@ -83,6 +91,14 @@
   "IES-BoilerRoom/protocol-conformance-relay#2": {
    "amount": 600.0,
    "at": "2026-11-06T07:33:45.848631+00:00"
+  },
+  "IES-BoilerRoom/rfc9421-http-signature-gateway#1": {
+   "amount": 450.0,
+   "at": "2026-11-13T07:32:19.670983+00:00"
+  },
+  "IES-BoilerRoom/rfc9421-http-signature-gateway#2": {
+   "amount": 600.0,
+   "at": "2026-11-13T07:32:19.670983+00:00"
   },
   "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix#1": {
    "amount": 450.0,
