@@ -396,6 +396,10 @@
    "amount": 75.0,
    "at": "2026-11-02T07:04:35.303880+00:00"
   },
+  "litang9/big_model_radar#703": {
+   "amount": 200.0,
+   "at": "2026-11-14T07:16:30.244961+00:00"
+  },
   "paraloom-labs/paraloom-core#1242": {
    "amount": 150.0,
    "at": "2026-10-28T06:32:02.840248+00:00"
@@ -483,6 +487,10 @@
   "tenstorrent/tt-metal#64933": {
    "amount": 750.0,
    "at": "2026-11-09T07:32:24.462574+00:00"
+  },
+  "tenstorrent/tt-metal#65472": {
+   "amount": 750.0,
+   "at": "2026-11-14T07:16:30.244961+00:00"
   },
   "theselfish/SlopStation13#40": {
    "amount": 420.0,
