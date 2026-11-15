@@ -16,6 +16,22 @@
    "amount": 170.0,
    "at": "2026-10-29T06:41:31.493624+00:00"
   },
+  "Fractal-Neurons/pacta#21": {
+   "amount": 25.0,
+   "at": "2026-11-15T07:26:18.176503+00:00"
+  },
+  "Fractal-Neurons/pacta#22": {
+   "amount": 25.0,
+   "at": "2026-11-15T07:26:18.176503+00:00"
+  },
+  "Fractal-Neurons/pacta#23": {
+   "amount": 25.0,
+   "at": "2026-11-15T07:26:18.176503+00:00"
+  },
+  "Fractal-Neurons/pacta#24": {
+   "amount": 25.0,
+   "at": "2026-11-15T07:26:18.176503+00:00"
+  },
   "HuggerHustle/ai-radar#119": {
    "amount": 5000.0,
    "at": "2026-11-01T07:04:00.520877+00:00"
@@ -84,6 +100,14 @@
    "amount": 600.0,
    "at": "2026-11-09T07:32:24.462574+00:00"
   },
+  "IES-BoilerRoom/pcie-tlp-credit-flow-gate#1": {
+   "amount": 450.0,
+   "at": "2026-11-15T07:26:18.176503+00:00"
+  },
+  "IES-BoilerRoom/pcie-tlp-credit-flow-gate#2": {
+   "amount": 600.0,
+   "at": "2026-11-15T07:26:18.176503+00:00"
+  },
   "IES-BoilerRoom/protocol-conformance-relay#1": {
    "amount": 450.0,
    "at": "2026-11-06T07:33:45.848631+00:00"
@@ -99,6 +123,14 @@
   "IES-BoilerRoom/rfc9421-http-signature-gateway#2": {
    "amount": 600.0,
    "at": "2026-11-13T07:32:19.670983+00:00"
+  },
+  "IES-BoilerRoom/solana-svm-cpi-conformance#1": {
+   "amount": 450.0,
+   "at": "2026-11-15T07:26:18.176503+00:00"
+  },
+  "IES-BoilerRoom/solana-svm-cpi-conformance#2": {
+   "amount": 600.0,
+   "at": "2026-11-15T07:26:18.176503+00:00"
   },
   "IES-BoilerRoom/tokio-ringbuffer-seqcst-matrix#1": {
    "amount": 450.0,
@@ -479,6 +511,14 @@
   "relayhop/ClaudeEarnSelf-runtime#1215": {
    "amount": 450.0,
    "at": "2026-11-10T07:57:24.251191+00:00"
+  },
+  "relayhop/ClaudeEarnSelf-runtime#1232": {
+   "amount": 450.0,
+   "at": "2026-11-15T07:26:18.176503+00:00"
+  },
+  "s-os-agency/agents#8": {
+   "amount": 1500.0,
+   "at": "2026-11-15T07:26:18.176503+00:00"
   },
   "tenstorrent/tt-metal#64575": {
    "amount": 750.0,
