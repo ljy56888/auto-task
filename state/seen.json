@@ -308,6 +308,10 @@
    "amount": 600.0,
    "at": "2026-11-06T07:33:45.848631+00:00"
   },
+  "WholeTroutMedia/protocol-conformance-relay#5": {
+   "amount": 450.0,
+   "at": "2026-11-17T08:44:35.460796+00:00"
+  },
   "abdulsalam-create/bounty-watch#215": {
    "amount": 3000.0,
    "at": "2026-11-04T07:10:10.066571+00:00"
@@ -371,6 +375,10 @@
   "bad-antics/lateralus-lang#100": {
    "amount": 25.0,
    "at": "2026-11-16T07:32:37.820525+00:00"
+  },
+  "bad-antics/lateralus-lang#152": {
+   "amount": 25.0,
+   "at": "2026-11-17T08:44:35.460796+00:00"
   },
   "bianzhilong2-ctrl/agents-radar#1616": {
    "amount": 5000.0,
