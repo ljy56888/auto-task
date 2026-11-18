@@ -8,6 +8,42 @@
    "amount": 100.0,
    "at": "2026-10-30T06:42:44.041181+00:00"
   },
+  "Ayush441-python/AUREN#1": {
+   "amount": 50.0,
+   "at": "2026-11-18T08:08:24.154198+00:00"
+  },
+  "Ayush441-python/AUREN#11": {
+   "amount": 25.0,
+   "at": "2026-11-18T08:08:24.154198+00:00"
+  },
+  "Ayush441-python/AUREN#15": {
+   "amount": 25.0,
+   "at": "2026-11-18T08:08:24.154198+00:00"
+  },
+  "Ayush441-python/AUREN#17": {
+   "amount": 25.0,
+   "at": "2026-11-18T08:08:24.154198+00:00"
+  },
+  "Ayush441-python/AUREN#2": {
+   "amount": 25.0,
+   "at": "2026-11-18T08:08:24.154198+00:00"
+  },
+  "Ayush441-python/AUREN#20": {
+   "amount": 25.0,
+   "at": "2026-11-18T08:08:24.154198+00:00"
+  },
+  "Ayush441-python/AUREN#26": {
+   "amount": 50.0,
+   "at": "2026-11-18T08:08:24.154198+00:00"
+  },
+  "Ayush441-python/AUREN#3": {
+   "amount": 25.0,
+   "at": "2026-11-18T08:08:24.154198+00:00"
+  },
+  "Ayush441-python/AUREN#4": {
+   "amount": 25.0,
+   "at": "2026-11-18T08:08:24.154198+00:00"
+  },
   "BasedHardware/omi#23720": {
    "amount": 50.0,
    "at": "2026-10-26T13:50:29.983819+00:00"
@@ -155,6 +191,18 @@
   "IES-BoilerRoom/wasm-component-canonical-abi#2": {
    "amount": 600.0,
    "at": "2026-11-11T07:27:23.320322+00:00"
+  },
+  "IES-BoilerRoom/wgsl-transcendental-math-core#1": {
+   "amount": 450.0,
+   "at": "2026-11-18T08:08:24.154198+00:00"
+  },
+  "IES-BoilerRoom/wgsl-transcendental-math-core#2": {
+   "amount": 600.0,
+   "at": "2026-11-18T08:08:24.154198+00:00"
+  },
+  "MIROKKK0/ultron#55": {
+   "amount": 250.0,
+   "at": "2026-11-18T08:08:24.154198+00:00"
   },
   "PhanKhoa95/oss-bot-trap-benchmark#16": {
    "amount": 350.0,
