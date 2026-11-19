@@ -12,6 +12,14 @@
    "amount": 50.0,
    "at": "2026-11-18T08:08:24.154198+00:00"
   },
+  "Ayush441-python/AUREN#100": {
+   "amount": 50.0,
+   "at": "2026-11-19T08:18:10.473109+00:00"
+  },
+  "Ayush441-python/AUREN#102": {
+   "amount": 50.0,
+   "at": "2026-11-19T08:18:10.473109+00:00"
+  },
   "Ayush441-python/AUREN#11": {
    "amount": 25.0,
    "at": "2026-11-18T08:08:24.154198+00:00"
@@ -43,6 +51,14 @@
   "Ayush441-python/AUREN#4": {
    "amount": 25.0,
    "at": "2026-11-18T08:08:24.154198+00:00"
+  },
+  "Ayush441-python/AUREN#67": {
+   "amount": 50.0,
+   "at": "2026-11-19T08:18:10.473109+00:00"
+  },
+  "Ayush441-python/AUREN#98": {
+   "amount": 50.0,
+   "at": "2026-11-19T08:18:10.473109+00:00"
   },
   "BasedHardware/omi#23720": {
    "amount": 50.0,
@@ -135,6 +151,14 @@
   "IES-BoilerRoom/mlir-tensor-tiling-pass#2": {
    "amount": 600.0,
    "at": "2026-11-09T07:32:24.462574+00:00"
+  },
+  "IES-BoilerRoom/nvme-zns-bch-ecc-simulator#1": {
+   "amount": 200.0,
+   "at": "2026-11-19T08:18:10.473109+00:00"
+  },
+  "IES-BoilerRoom/nvme-zns-bch-ecc-simulator#2": {
+   "amount": 175.0,
+   "at": "2026-11-19T08:18:10.473109+00:00"
   },
   "IES-BoilerRoom/pcie-tlp-credit-flow-gate#1": {
    "amount": 450.0,
@@ -312,6 +336,10 @@
    "amount": 50.0,
    "at": "2026-11-07T06:46:49.360165+00:00"
   },
+  "Soroban-escrow/escrow-backend#141": {
+   "amount": 50.0,
+   "at": "2026-11-19T08:18:10.473109+00:00"
+  },
   "Subham12556/pr-bountypay-demo#11": {
    "amount": 90.0,
    "at": "2026-11-11T07:27:23.320322+00:00"
@@ -431,6 +459,10 @@
   "bianzhilong2-ctrl/agents-radar#1616": {
    "amount": 5000.0,
    "at": "2026-11-01T07:04:00.520877+00:00"
+  },
+  "chalkbadger/wirth#29": {
+   "amount": 100.0,
+   "at": "2026-11-19T08:18:10.473109+00:00"
   },
   "chusmias258-dev/solana-validator-tx-ordering#1": {
    "amount": 75.0,
