@@ -148,6 +148,10 @@
    "amount": 600.0,
    "at": "2026-11-11T07:27:23.320322+00:00"
   },
+  "IES-BoilerRoom/grpc-http2-hpack-framing#1": {
+   "amount": 250.0,
+   "at": "2026-11-21T07:55:19.228450+00:00"
+  },
   "IES-BoilerRoom/mcp-sse-frame-conformance#1": {
    "amount": 450.0,
    "at": "2026-11-06T07:33:45.848631+00:00"
@@ -344,6 +348,10 @@
    "amount": 1325.0,
    "at": "2026-11-16T07:32:37.820525+00:00"
   },
+  "Soroban-escrow/escrow-app#178": {
+   "amount": 50.0,
+   "at": "2026-11-21T07:55:19.228450+00:00"
+  },
   "Soroban-escrow/escrow-backend#14": {
    "amount": 50.0,
    "at": "2026-11-07T06:46:49.360165+00:00"
@@ -455,6 +463,10 @@
   "amirmomeni177/bounty-watch#16": {
    "amount": 3000.0,
    "at": "2026-11-20T07:58:17.376160+00:00"
+  },
+  "amirmomeni177/bounty-watch#20": {
+   "amount": 1500.0,
+   "at": "2026-11-21T07:55:19.228450+00:00"
   },
   "andrewsiah/agentswarm-data-tasks#4": {
    "amount": 450.0,
