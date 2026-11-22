@@ -124,6 +124,14 @@
    "amount": 600.0,
    "at": "2026-11-13T07:32:19.670983+00:00"
   },
+  "IES-BoilerRoom/cpython-pep626-line-profiler#1": {
+   "amount": 125.0,
+   "at": "2026-11-22T07:40:44.590477+00:00"
+  },
+  "IES-BoilerRoom/cpython-pep626-line-profiler#2": {
+   "amount": 250.0,
+   "at": "2026-11-22T07:40:44.590477+00:00"
+  },
   "IES-BoilerRoom/cuda-warp-allreduce-verifier#1": {
    "amount": 450.0,
    "at": "2026-11-10T07:57:24.251191+00:00"
@@ -512,6 +520,10 @@
    "amount": 50.0,
    "at": "2026-11-10T07:57:24.251191+00:00"
   },
+  "ilhamraduanbis-source/toyol-digital#9": {
+   "amount": 1325.0,
+   "at": "2026-11-22T07:40:44.590477+00:00"
+  },
   "isearchxsolve/bounty-proof#1": {
    "amount": 150.0,
    "at": "2026-10-30T06:42:44.041181+00:00"
@@ -620,6 +632,10 @@
    "amount": 3000.0,
    "at": "2026-11-08T06:52:45.425026+00:00"
   },
+  "paraloom-labs/paraloom-core#1633": {
+   "amount": 100.0,
+   "at": "2026-11-22T07:40:44.590477+00:00"
+  },
   "paraloom-labs/paraloom-wallet#127": {
    "amount": 150.0,
    "at": "2026-10-28T06:32:02.840248+00:00"
@@ -663,6 +679,10 @@
   "relayhop/ClaudeEarnSelf-runtime#1236": {
    "amount": 25.0,
    "at": "2026-11-16T07:32:37.820525+00:00"
+  },
+  "relayhop/ClaudeEarnSelf-runtime#1259": {
+   "amount": 75.0,
+   "at": "2026-11-22T07:40:44.590477+00:00"
   },
   "s-os-agency/agents#8": {
    "amount": 1500.0,
