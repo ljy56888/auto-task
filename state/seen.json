@@ -496,6 +496,10 @@
    "amount": 25.0,
    "at": "2026-11-20T07:58:17.376160+00:00"
   },
+  "bad-antics/lateralus-lang#493": {
+   "amount": 25.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
+  },
   "bianzhilong2-ctrl/agents-radar#1616": {
    "amount": 5000.0,
    "at": "2026-11-01T07:04:00.520877+00:00"
@@ -635,6 +639,66 @@
   "paraloom-labs/paraloom-core#1633": {
    "amount": 100.0,
    "at": "2026-11-22T07:40:44.590477+00:00"
+  },
+  "paraloom-labs/paraloom-core#1646": {
+   "amount": 3000.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
+  },
+  "paraloom-labs/paraloom-core#1647": {
+   "amount": 3000.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
+  },
+  "paraloom-labs/paraloom-core#1673": {
+   "amount": 150.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
+  },
+  "paraloom-labs/paraloom-core#1674": {
+   "amount": 150.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
+  },
+  "paraloom-labs/paraloom-core#1675": {
+   "amount": 150.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
+  },
+  "paraloom-labs/paraloom-core#1676": {
+   "amount": 150.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
+  },
+  "paraloom-labs/paraloom-core#1677": {
+   "amount": 150.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
+  },
+  "paraloom-labs/paraloom-core#1678": {
+   "amount": 150.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
+  },
+  "paraloom-labs/paraloom-core#1679": {
+   "amount": 150.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
+  },
+  "paraloom-labs/paraloom-core#1680": {
+   "amount": 150.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
+  },
+  "paraloom-labs/paraloom-core#1681": {
+   "amount": 50.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
+  },
+  "paraloom-labs/paraloom-core#1682": {
+   "amount": 50.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
+  },
+  "paraloom-labs/paraloom-core#1683": {
+   "amount": 50.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
+  },
+  "paraloom-labs/paraloom-core#1684": {
+   "amount": 50.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
+  },
+  "paraloom-labs/paraloom-core#1685": {
+   "amount": 50.0,
+   "at": "2026-11-23T08:30:24.611684+00:00"
   },
   "paraloom-labs/paraloom-wallet#127": {
    "amount": 150.0,
