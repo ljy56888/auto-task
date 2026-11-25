@@ -256,6 +256,14 @@
    "amount": 600.0,
    "at": "2026-11-18T08:08:24.154198+00:00"
   },
+  "IES-BoilerRoom/zk-plonk-transcript-verifier#1": {
+   "amount": 175.0,
+   "at": "2026-11-25T09:28:05.314456+00:00"
+  },
+  "IES-BoilerRoom/zk-plonk-transcript-verifier#2": {
+   "amount": 75.0,
+   "at": "2026-11-25T09:28:05.314456+00:00"
+  },
   "MIROKKK0/ultron#55": {
    "amount": 250.0,
    "at": "2026-11-18T08:08:24.154198+00:00"
@@ -484,6 +492,10 @@
    "amount": 1500.0,
    "at": "2026-11-21T07:55:19.228450+00:00"
   },
+  "amirmomeni177/bounty-watch#39": {
+   "amount": 3000.0,
+   "at": "2026-11-25T09:28:05.314456+00:00"
+  },
   "andrewsiah/agentswarm-data-tasks#4": {
    "amount": 450.0,
    "at": "2026-11-09T07:32:24.462574+00:00"
@@ -519,6 +531,10 @@
   "chusmias258-dev/solana-validator-tx-ordering#1": {
    "amount": 75.0,
    "at": "2026-11-03T07:28:21.503066+00:00"
+  },
+  "farmmer938-lgtm/autonomous-zero-baht#47": {
+   "amount": 150.0,
+   "at": "2026-11-25T09:28:05.314456+00:00"
   },
   "hoozh/mesa-caliente#17": {
    "amount": 157.649,
@@ -587,6 +603,10 @@
   "litang9/big_model_radar#703": {
    "amount": 200.0,
    "at": "2026-11-14T07:16:30.244961+00:00"
+  },
+  "madin-ll/bounty-pipeline-e2e-verify#1": {
+   "amount": 50.0,
+   "at": "2026-11-25T09:28:05.314456+00:00"
   },
   "overturn-ai/overturn#20": {
    "amount": 150.0,
@@ -755,6 +775,10 @@
   "relayhop/ClaudeEarnSelf-runtime#1259": {
    "amount": 75.0,
    "at": "2026-11-22T07:40:44.590477+00:00"
+  },
+  "relayhop/ClaudeEarnSelf-runtime#1267": {
+   "amount": 125.0,
+   "at": "2026-11-25T09:28:05.314456+00:00"
   },
   "s-os-agency/agents#8": {
    "amount": 1500.0,
