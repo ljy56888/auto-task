@@ -520,6 +520,14 @@
    "amount": 25.0,
    "at": "2026-11-16T07:32:37.820525+00:00"
   },
+  "bad-antics/lateralus-lang#1163": {
+   "amount": 25.0,
+   "at": "2026-11-28T08:37:45.106411+00:00"
+  },
+  "bad-antics/lateralus-lang#1166": {
+   "amount": 25.0,
+   "at": "2026-11-28T08:37:45.106411+00:00"
+  },
   "bad-antics/lateralus-lang#152": {
    "amount": 25.0,
    "at": "2026-11-17T08:44:35.460796+00:00"
@@ -619,6 +627,10 @@
   "madin-ll/bounty-pipeline-e2e-verify#1": {
    "amount": 50.0,
    "at": "2026-11-25T09:28:05.314456+00:00"
+  },
+  "nick-transition/fitapp#103": {
+   "amount": 150.0,
+   "at": "2026-11-28T08:37:45.106411+00:00"
   },
   "overturn-ai/overturn#20": {
    "amount": 150.0,
@@ -791,6 +803,10 @@
   "relayhop/ClaudeEarnSelf-runtime#1267": {
    "amount": 125.0,
    "at": "2026-11-25T09:28:05.314456+00:00"
+  },
+  "relayhop/ClaudeEarnSelf-runtime#1274": {
+   "amount": 100.0,
+   "at": "2026-11-28T08:37:45.106411+00:00"
   },
   "s-os-agency/agents#8": {
    "amount": 1500.0,
